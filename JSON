@@ -1,0 +1,11 @@
+{
+  "GroupId": 10055337,
+  "Key": "divinesistarr!50021",
+  "RanksAllowed": [1, 3, 4, 51, 102, 122],
+  "Ranks": {
+    "Trainee": 51,
+    "Maha": 102,
+    "Maj": 122
+  },
+  // Add other configuration settings here
+}
